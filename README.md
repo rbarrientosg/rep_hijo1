@@ -1,2 +1,2 @@
-# rep_padre
-- Test para extraer proyectos individuales.
+# rep_hijo1
+- Test para extraer "rep_hijo1" de "rep_padre".
